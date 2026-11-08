@@ -26,4 +26,4 @@ See [LICENSE](LICENSE).
 ## Community
 
 - Website: https://lumawen.com
-- Discord: [invite link]
+- Discord: https://discord.gg/AnfFWXSGq
