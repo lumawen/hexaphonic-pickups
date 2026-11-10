@@ -5,7 +5,7 @@
   </picture>
 </p>
 
-# hexaphonic-pickups
+# lumawen-pickups
 
 Open-source hexaphonic guitar pickups: one signal per string, for MIDI, per-string effects and smarter learning tools.
 
